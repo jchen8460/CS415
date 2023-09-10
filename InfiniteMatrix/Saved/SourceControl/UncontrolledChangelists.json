@@ -9,7 +9,11 @@
 				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
 				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/Maps/TutorialMap.umap",
 				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
-				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/UI/WBP_Restart.uasset"
+				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/UI/HealthBar.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/UI/Empty.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/UI/EmptyHealthBar.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/UI/FullHealthBar.uasset"
 			]
 		}
 	]
