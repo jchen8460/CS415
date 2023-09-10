@@ -11,9 +11,15 @@
 				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
 				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
 				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/UI/HealthBar.uasset",
-				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/UI/Empty.uasset",
 				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/UI/EmptyHealthBar.uasset",
-				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/UI/FullHealthBar.uasset"
+				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/UI/FullHealthBar.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/Textures/TEX_HealthPack_Albedo.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/Textures/TEX_HealthPack_roughness.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/Materials/lambert1.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/Meshes/HealthPack.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_HealthSpawner.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/UI/Empty.uasset"
 			]
 		}
 	]
