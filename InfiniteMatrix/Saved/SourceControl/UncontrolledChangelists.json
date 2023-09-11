@@ -17,8 +17,10 @@
 				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/Textures/TEX_HealthPack_roughness.uasset",
 				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/Materials/lambert1.uasset",
 				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/Meshes/HealthPack.uasset",
-				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_HealthSpawner.uasset",
 				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_HealthSpawner.uasset",
 				"C:/Users/jjchen10/Desktop/CS415/InfiniteMatrix/Content/InfiniteMatrix/UI/Empty.uasset"
 			]
 		}
