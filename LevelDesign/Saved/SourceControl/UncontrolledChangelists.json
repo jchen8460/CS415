@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/Hour_of_Code/Blueprints/Game/BP_HourOfCode_Character.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/LevelDesign/UI/empty_health.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/LevelDesign/UI/full_health.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/LevelDesign/UI/player_info.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/LevelDesign/Meshes/HealthPack.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/LevelDesign/Materials/lambert1.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/LevelDesign/Textures/TEX_HealthPack_Albedo.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/LevelDesign/Blueprints/BP_Healthpack.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/LevelDesign/Textures/TEX_HealthPack_roughness.uasset"
+			]
+		}
+	]
+}
