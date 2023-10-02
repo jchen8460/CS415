@@ -15,7 +15,20 @@
 				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/LevelDesign/Materials/lambert1.uasset",
 				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/LevelDesign/Textures/TEX_HealthPack_Albedo.uasset",
 				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/LevelDesign/Blueprints/BP_Healthpack.uasset",
-				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/LevelDesign/Textures/TEX_HealthPack_roughness.uasset"
+				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/LevelDesign/Textures/TEX_HealthPack_roughness.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/LevelDesign/Blueprints/Collectibles/BP_Healthpack.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/Hour_of_Code/Blueprints/BP_coin.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/LevelDesign/Blueprints/Collectibles/BP_coin.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/Hour_of_Code/Blueprints/BP_coin_2.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/LevelDesign/Blueprints/Collectibles/BP_mycoin.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/Hour_of_Code/Blueprints/BP_endGoal.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/LevelDesign/UI/W_gameCompletion.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/Hour_of_Code/Widgets/W_gameCompletion.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/LevelDesign/Blueprints/Enemies/AIController.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/LevelDesign/Blueprints/Enemies/BP_pursuer.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/LevelDesign/UI/W_restart_game.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/LevelDesign/Blueprints/BP_detector.uasset",
+				"C:/Users/jjchen10/Desktop/CS415/LevelDesign/Content/LevelDesign/Blueprints/BP_coin.uasset"
 			]
 		}
 	]
